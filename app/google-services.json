@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_id": "e-place-160606",
+    "project_number": "1079441528961",
+    "name": "E-Place"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079441528961:android:c3c80e6822c8c6ef",
+        "client_id": "android:com.emergency",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.emergency",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079441528961-jg3188aoqtb4gmde52o27sn1d9fpvseb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emergency",
+            "certificate_hash": "C5B8DD88798BAC35C4653EC99C502A461BD02BF4"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multigeometry_placemarks.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multigeometry_placemarks.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_alpha.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\draw_order_ground_overlay.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_folder.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_alpha.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\visibility_ground_overlay.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inline_style.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\inline_style.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_folder.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_placemark.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_placemark.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unknwown_folder.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unsupported.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unsupported.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_alpha.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_multigeometry.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_multigeometry.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\document_nest.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\document_nest.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unsupported.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unsupported.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cdata.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\cdata.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay_color.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay_color.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay_color.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay_color.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unknwown_folder.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_numeric.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inline_style.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\inline_style.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_placemark.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_placemark.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cdata.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\cdata.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\draw_order_ground_overlay.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\visibility_ground_overlay.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unknwown_folder.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multigeometry_placemarks.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extended_data.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\extended_data.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\visibility_ground_overlay.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_multigeometry.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_multigeometry.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unsupported.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unsupported.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\document_nest.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\document_nest.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multiple_placemarks.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multiple_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_balloon.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\default_balloon.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cdata.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\cdata.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballon_gx_prefix.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_multigeometry.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_multigeometry.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_multigeometry.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_multigeometry.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_numeric.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballon_gx_prefix.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_placemark.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_placemark.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay_color.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay_color.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unknwown_folder.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballon_gx_prefix.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_folders.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_folders.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_folders.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_folders.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_folders.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_folders.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multiple_placemarks.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multiple_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_numeric.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inline_style.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\inline_style.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multigeometry_placemarks.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_folder.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multigeometry_placemarks.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\draw_order_ground_overlay.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_folder.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extended_data.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\extended_data.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cdata.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\cdata.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inline_style.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\inline_style.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unknwown_folder.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\document_nest.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\document_nest.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\visibility_ground_overlay.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_alpha.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_balloon.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\default_balloon.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multiple_placemarks.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multiple_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay_color.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay_color.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballon_gx_prefix.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_numeric.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multiple_placemarks.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multiple_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extended_data.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\extended_data.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extended_data.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\extended_data.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballon_gx_prefix.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\visibility_ground_overlay.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_folders.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_folders.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inline_style.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\inline_style.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\draw_order_ground_overlay.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\document_nest.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\document_nest.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cdata.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\cdata.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_balloon.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\default_balloon.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_folders.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_folders.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_placemark.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_placemark.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\draw_order_ground_overlay.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_folder.kml",
+        "source": "C:\\android\\E-Place - Copy (2)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_folder.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extended_data.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\extended_data.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay_color.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay_color.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_placemark.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\basic_placemark.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_balloon.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\default_balloon.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\document_nest.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\document_nest.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_numeric.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_alpha.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unsupported.kml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unsupported.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unsupported.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\unsupported.kml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multiple_placemarks.kml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\multiple_placemarks.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_multigeometry.kml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\nested_multigeometry.kml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_balloon.kml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\raw\\default_balloon.kml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    }
+]

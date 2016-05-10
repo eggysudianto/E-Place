@@ -1,0 +1,25 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    <Button
+        android:id="@+id/Bsearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff4081"
+        android:src="@android:drawable/ic_dialog_map"
+        android:text="Search Place"
+        android:textColor="#fff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:onClick="onSearch"
+        />
+
+</RelativeLayout>

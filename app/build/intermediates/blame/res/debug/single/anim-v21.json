@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\android\\backup - Copy (4)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\android\\E-Place - Copy (2) - Copy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\android\\backup\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

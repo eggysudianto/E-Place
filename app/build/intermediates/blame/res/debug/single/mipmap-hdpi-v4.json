@@ -10,5 +10,9 @@
     {
         "merged": "C:\\android\\backup\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "C:\\android\\backup\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android\\E-Place\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\android\\E-Place\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

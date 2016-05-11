@@ -221,17 +221,23 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     //untuk ambil lokasi dan akan di kirimkan ke Activity lain...
     private void alertBox(String title, String message) {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setMessage("Your Device is Disable")
+        builder.setMessage("GPS Anda tampaknya dinonaktifkan, apakah Anda ingin mengaktifkannya?")
                 .setCancelable(false)
-                .setTitle("GPS STATUS")
+                .setTitle("STATUS GPS")
                 .setPositiveButton(
-                        "GPS ON",
+                        "YA",
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 /* this gonna call class of settings then dialog interface disappeared */
                                 Intent intent = new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS);
                                 startActivity(intent);
+                                dialog.cancel();
+                            }
+                        }
+                )
+                .setNegativeButton("TIDAK", new DialogInterface.OnClickListener() {
+                            public void onClick(final DialogInterface dialog, @SuppressWarnings("unused") final int id) {
                                 dialog.cancel();
                             }
                         }
@@ -459,13 +465,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void buildAlertMessageNoGps() {
         final AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setMessage("GPS Anda tampaknya dinonaktifkan, apakah Anda ingin mengaktifkannya?")
+                .setTitle("STATUS GPS")
                 .setCancelable(false)
-                .setPositiveButton("Ya", new DialogInterface.OnClickListener() {
+                .setPositiveButton("YA", new DialogInterface.OnClickListener() {
                     public void onClick(@SuppressWarnings("unused") final DialogInterface dialog, @SuppressWarnings("unused") final int id) {
                         startActivity(new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS));
                     }
                 })
-                .setNegativeButton("Tidak", new DialogInterface.OnClickListener() {
+                .setNegativeButton("TIDAK", new DialogInterface.OnClickListener() {
                     public void onClick(final DialogInterface dialog, @SuppressWarnings("unused") final int id) {
                         dialog.cancel();
                     }

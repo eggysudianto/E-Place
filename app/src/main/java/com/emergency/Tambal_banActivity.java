@@ -129,7 +129,7 @@ public class Tambal_banActivity extends Activity {
                 try {
                     HttpClient httpClient = new DefaultHttpClient();
                     HttpPost httpPost = new HttpPost(
-                            "http://192.168.3.50/e_place/android/InputTambalBan.php");
+                            "http://192.168.1.17/e_place/android/InputTambalBan.php");
                     httpPost.setEntity(new UrlEncodedFormEntity(nameValuePairs));
 
                     HttpResponse response = httpClient.execute(httpPost);

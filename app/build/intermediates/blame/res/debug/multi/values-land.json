@@ -317,7 +317,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-land\\values-land.xml",
+                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-land\\values-land.xml",
+                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-land\\values-land.xml",
+                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-land\\values-land.xml",
+                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -394,14 +394,14 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-land\\values-land.xml",
+                    "file": "C:\\android\\E-Place\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\values-land\\values-land.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 275,
-                        "endLine": 7,
+                        "startOffset": 55,
+                        "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 452
+                        "endOffset": 232
                     }
                 }
             }
